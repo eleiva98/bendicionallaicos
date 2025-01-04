@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1083164557245",
+    "project_id": "bendicionallaicos",
+    "storage_bucket": "bendicionallaicos.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1083164557245:android:3a4906a01b8b666da21cd4",
+        "android_client_info": {
+          "package_name": "com.example.bendicional"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBq8oHau1zwVkwW4XPpmPXSTwq_cIUmEeM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

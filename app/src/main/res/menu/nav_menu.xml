@@ -2,17 +2,18 @@
 <menu xmlns:android="http://schemas.android.com/apk/res/android">
 
     <item
-        android:id="@+id/menu_canciones1"
+        android:id="@+id/menu_rito1"
         android:title="@string/section1" />
 
     <item
-        android:id="@+id/menu_canciones2"
+        android:id="@+id/menu_rito2"
         android:title="@string/section2" />
 
     <item
-        android:id="@+id/menu_canciones3"
+        android:id="@+id/menu_rito3"
         android:title="@string/section3" />
 
+<!--
     <item
         android:id="@+id/menu_canciones4"
         android:title="@string/section4" />
@@ -68,6 +69,6 @@
     <item
         android:id="@+id/menu_canciones17"
         android:title="@string/section17" />
-
+-->
 
 </menu>
