@@ -3,11 +3,11 @@
     <string name="app_name">Bendicional para Laicos</string>
     <string name="navigation_drawer_open">Abrir barra lateral</string>
     <string name="navigation_drawer_close">Cerrar barra lateral</string>
-
+    <string name="hostingurl">https://bendicionallaicos.web.app/html</string>
     <string name="section1">Casa</string>
     <string name="section2">Enfermo</string>
     <string name="section3">Familia</string>
-
+    <string name="v0.2">versionapp</string>
     <!--
     <string name="rito4">Post - Comunión</string>
     <string name="rito5">Varios - Himnos</string>
